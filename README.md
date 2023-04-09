@@ -156,24 +156,24 @@ plt.axis("off")
 
 i) Using Averaging Filter
 
-[img1](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img1.png)
+![img1](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img1.png)
 ii) Using Weighted Averaging Filter
-[img2](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img2.png)
+![img2](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img2.png)
 
 iii) Using Gaussian Filter
-[img3](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img3.png)
+![img3](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img3.png)
 
 iv) Using Median Filter
 
-[img4](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img4.png)
+![img4](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img4.png)
 ### 2. Sharpening Filters
 
 
 i) Using Laplacian Kernal
-[img5](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img5.png)
+![img5](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img5.png)
 
 ii) Using Laplacian Operator
 
-[img6](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img6.png)
+![img6](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img6.png)
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
