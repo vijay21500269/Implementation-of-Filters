@@ -157,19 +157,35 @@ plt.axis("off")
 i) Using Averaging Filter
 
 ![img1](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img1.png)
+
+
+
+
+
 ii) Using Weighted Averaging Filter
+
+
+
 ![img2](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img2.png)
 
 iii) Using Gaussian Filter
+
+
+
 ![img3](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img3.png)
 
 iv) Using Median Filter
 
 ![img4](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img4.png)
+
+
+
 ### 2. Sharpening Filters
 
 
 i) Using Laplacian Kernal
+
+
 ![img5](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img5.png)
 
 ii) Using Laplacian Operator
