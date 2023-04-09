@@ -156,6 +156,7 @@ plt.axis("off")
 
 i) Using Averaging Filter
 
+
 ![img1](https://github.com/vijay21500269/Implementation-of-Filters/blob/main/img1.png)
 
 
